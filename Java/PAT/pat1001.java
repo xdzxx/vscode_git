@@ -16,6 +16,7 @@ public class pat1001{
                 }
             }
         }
+        in.close();//关闭in
         System.out.println(count);
     }
 }
